@@ -14,8 +14,11 @@ what BStudent is about to write. This is why
 he is creating a new branch and writing 
 his text here. 
 *PLACE HOLDER: ASTUDENT'S TEXT*
+Hasan is very kind helping Marco in this project.
 
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
 *PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
+dasdasdasdasdasda
+asdasdasdasdasdas
